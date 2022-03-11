@@ -1,0 +1,13 @@
+{
+  "name": "parcel-pug-app",
+  "version": "0.1.0",
+  "source": "src/templates/index.pug",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-pug": "latest",
+    "parcel": "latest"
+  }
+}
